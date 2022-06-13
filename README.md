@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 Jupyter / Matplotlib analysis of weather data with API for Jack (Rice Boot Camp)
 
-##Basic Project Plan
+## Basic Project Plan
 Here's an outline of your project plan:
 * **Task:** Collect and analyze weather data across cities worldwide.
 * **Purpose:** PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences.
