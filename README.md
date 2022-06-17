@@ -1,5 +1,9 @@
 # World_Weather_Analysis
-Jupyter / Matplotlib analysis of weather data with API for Jack (Rice Boot Camp)
+## Project Background
+The user interface team lead for PlanMyTrip is working on improvements to the search page, so that users can filter based on their preferred travel criteria.
+
+## Purpose
+Jupyter / Matplotlib analysis of weather data with API
 
 ## Basic Project Plan
 Here's an outline of your project plan:
